@@ -46,11 +46,18 @@ Part three involved an additional wall mount and connections from the mount to t
 <br />
 <br />
 I also worked with connecting various devices via wireless LAN and Bluetooth. Here you can see the process of verifying an internet connection on the laptop after connecting to the network with a wireless adapter and confirming DHCP:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/53f8abe9-7429-4dd6-acfd-3c5850c96ac5" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/8d0c8f71-ccc7-4797-be35-6745cbb49393" />
+<img width="1436" alt="Image" src="https://github.com/user-attachments/assets/e48276d2-a6ac-4961-b4a0-6b7f0df95bf4" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2336fa88-b591-4fc7-a895-881b01a271fa" />
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/da2b19fb-8976-4368-a6d7-6414b2e3560a" />
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/02bdf7f9-9ef8-4aae-9362-213704a0ee6a" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Connecting devices via Bluetooth, the sound that played was a brief clip of crickets chirping:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 
 <!--
