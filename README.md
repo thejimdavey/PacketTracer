@@ -12,10 +12,10 @@ Practiced using Cisco Packet Tracer to set up, manage, and monitor a branch offi
 
 <p align="center">
 After downloading Packet Tracer I started with the brief explanatory intro to the Cisco Packet Tracer interface: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1248" alt="Image" src="https://github.com/user-attachments/assets/fe63ff48-ece4-4d6a-a023-58301252b749" />
 <br />
 <br />
-Select the disk:  <br/>
+Logical and Physical Mode Exploration:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
