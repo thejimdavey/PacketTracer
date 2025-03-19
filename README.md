@@ -60,7 +60,16 @@ Connecting devices via Bluetooth, the sound that played was a brief clip of cric
 <br />
 <br />
 Lastly I tethered to a Smartphone via Bluetooth with the User Laptop to connect to the internet:  <br/>
-
+<img width="1434" alt="Image" src="https://github.com/user-attachments/assets/2e64d1b4-c5b1-4035-816d-daf0781e783b" />
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/e5f5aaff-0c5e-4743-943a-d0bb926cf61a" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2802a65d-48a2-4d22-bcc4-31cee2416a7e" />
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/701b5fc5-1f7d-46f3-851b-f6e234133028" />
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/e8fb8fe5-4d3d-47fa-8106-19742a66d040" />
+<img width="1430" alt="Image" src="https://github.com/user-attachments/assets/038e7e35-7f79-438b-be94-680559f9ded4" />
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/a334d4e5-58de-42a3-8033-22a27a4239e6" />
+<br />
+<br />
+I enjoyed working with Cisco Packet Tracer as it provides an approximation of working hands on with the equipment and concepts involved with networking. I look forward to expanding my knowledge with additional Packet Tracer offerings in the future.
 </p>
 
 <!--
