@@ -16,10 +16,12 @@ After downloading Packet Tracer I started with the brief explanatory intro to th
 <br />
 <br />
 Logical and Physical Mode Exploration:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/044931ba-3b39-41ce-aec3-1ffbc62b868b" />
+
+<img width="1435" alt="Image" src="https://github.com/user-attachments/assets/5a2195d8-3c35-4abc-b74a-64a6a1094d4e" />
 <br />
 <br />
-Enter the number of passes: <br/>
+Once I had a feel for the interface and some of the basics, I advanced to creating a simple network. The first part of the process involved installing a patch panel into the wiring closet and running the necessary cables. You can also see the before after of the rack with optional cable managemnt: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
