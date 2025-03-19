@@ -37,11 +37,15 @@ Once the patch panel was installed I attached a wall mount in the office and con
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/24e323ce-b164-45bc-8fc8-03e30e72957e" />
 <br />
 <br />
-Part three involved an additional wall mount and connections from the mount to the corresponding ports on the patch panel. Once the cabling was connected and wrangled, a web brwoser session was started from the Office-User console and the active connection was verified:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Part three involved an additional wall mount and connections from the mount to the corresponding ports on the patch panel. Once the cabling was connected and wrangled, a web browser session was started from the Office-User console and the active connection was verified:  <br/>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c18cc816-8899-4a84-b981-c6dcd76d91b3" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b558af37-8b31-4e87-9f3c-20928a60732e" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6aea7bb8-f8ef-4d12-acfb-c5c9568b101d" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/13b062f0-6ac3-47fc-8aae-3ed5e921568d" />
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/2b974898-01f0-4950-84ac-ebda318c3c0a" />
 <br />
 <br />
-Sanitization complete:  <br/>
+I also worked with connecting various devices via wireless LAN and Bluetooth. Here you can see the process of verifying an internet connection on the laptop after connecting to the network with a wireless adapter and confirming DHCP:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
