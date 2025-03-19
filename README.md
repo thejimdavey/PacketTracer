@@ -55,8 +55,11 @@ I also worked with connecting various devices via wireless LAN and Bluetooth. He
 <br />
 <br />
 Connecting devices via Bluetooth, the sound that played was a brief clip of crickets chirping:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/eea216aa-3714-4f46-96a0-2aa4d05cb80d" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/f489fd2e-38af-4229-8f5b-7fd3091f5e4e" />
+<br />
+<br />
+Lastly I tethered to a Smartphone via Bluetooth with the User Laptop to connect to the internet:  <br/>
 
 </p>
 
