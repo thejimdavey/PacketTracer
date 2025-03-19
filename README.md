@@ -21,11 +21,15 @@ Logical and Physical Mode Exploration:  <br/>
 <img width="1435" alt="Image" src="https://github.com/user-attachments/assets/5a2195d8-3c35-4abc-b74a-64a6a1094d4e" />
 <br />
 <br />
-Once I had a feel for the interface and some of the basics, I advanced to creating a simple network. The first part of the process involved installing a patch panel into the wiring closet and running the necessary cables. You can also see the before after of the rack with optional cable managemnt: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once I had a feel for the interface and some of the basics, I advanced to creating a simple network. The first part of the process involved installing a patch panel into the wiring closet and running the necessary straight through copper cables. You can also see the before and after of the rack with optional cable managemnt to clean up the view of the racks: <br/>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/397da894-a827-4ffe-a594-bf326a081844" />
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/e89ce022-0fd0-4078-ab9f-7d3c3001bc34" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/fc8f821f-d985-4781-9e8c-a8f7b9dc04bd" />
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/034468db-3f28-4c98-8c01-f3e910d0f6a5" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/66040244-2960-4cd3-b429-0818552e6701" />
 <br />
 <br />
-Confirm your selection:  <br/>
+Once the patch panel was installed I attached a wall mount in the office and connected the necessary cables to the corresponding punchdown connections in the equipment closet and organized the cabling by creating bend points:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
