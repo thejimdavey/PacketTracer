@@ -30,10 +30,14 @@ Once I had a feel for the interface and some of the basics, I advanced to creati
 <br />
 <br />
 Once the patch panel was installed I attached a wall mount in the office and connected the necessary cables to the corresponding punchdown connections in the equipment closet and organized the cabling by creating bend points:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/d857db60-3db6-454d-ad27-e329a2e038a0" />
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/ab8f3c02-14b2-4b59-ad5c-2ce3790ec38b" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/323ffae8-3499-47cd-82b9-87c0dbcab1d5" />
+<img width="1438" alt="Image" src="https://github.com/user-attachments/assets/b61fc52e-2f65-4958-85c7-3ecd1fc485ce" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/24e323ce-b164-45bc-8fc8-03e30e72957e" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Part three involved an additional wall mount and connections from the mount to the corresponding ports on the patch panel. Once the cabling was connected and wrangled, a web brwoser session was started from the Office-User console and the active connection was verified:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
